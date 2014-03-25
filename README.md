@@ -1,4 +1,4 @@
-# A Command Line Quest
+# Hardware Scheme of Work
 
 ![](c-line.png)
 
@@ -8,8 +8,13 @@ Using text to command the Raspberry Pi!
 
 ### Students will learn
 
+- The difference between hardware and software
 - Ways to interact with computers
-- hhh
+  - input
+  - process
+  - output
+  - storage
+- Differences between Graphical User Interfaces and Command Line Interfaces
 
 ### Computing Programme of Study Met
 
