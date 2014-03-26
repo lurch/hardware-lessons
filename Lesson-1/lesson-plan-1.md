@@ -37,7 +37,7 @@ Students feedback their answers for further class discussion. Collate a diagram/
 
 1. Display a picture of the Raspbian desktop GUI and ask students to identify the ways that they can interact with it. For example, mouse pointer, icons, navigation bar, and menu system. Draw out through questioning ways of managing files, such as how would they open saved files.
 
-Explain the key term *Graphical User Interface* and *WIMP*. Explain that in this lesson students will learn how to interact with their raspberry pi using text commands instead of a system that relies on WIMP.
+	Explain the key term *Graphical User Interface* and *WIMP*. Explain that in this lesson students will learn how to interact with their raspberry pi using text commands instead of a system that relies on WIMP.
 
 2. Ask students to set up their Raspberry Pi equipment, turn it on and log into their Pi using the default username `pi` and the password `raspberry`. 
 
